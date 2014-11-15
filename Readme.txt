@@ -6,5 +6,9 @@ The most common purpose of analyzing bike sharing system is to learn the usage p
 
 The focus of the current analysis is therefore, to find community groups among all bike stations and compare their daily/hourly usage so as to estimate the neighborhood and mainly usage of bikes. 
 
+  The data is probably converted from New York Citi Bike, the largest bike sharing system around the US, which has 332 stations as of May 2013.
+  
+  
+
 By Yesu Feng
 11/09/2014
